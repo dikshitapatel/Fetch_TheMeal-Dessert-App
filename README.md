@@ -4,15 +4,16 @@ Fetch-TheMeal is an iOS app using SwiftUI that allows users to discover and expl
 
 # Snapshots
 
+<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 17 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/3ee1643e-cb81-4658-a234-fb9c52acaf4d">
+<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 29 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/88574885-3de0-4cff-8160-8ae987dcf5a4">
+<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 42 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/f7606a9e-e5cc-418f-ba4b-953cbc5ba4df">
+<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 50 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/5db97384-25cc-4811-8904-0b1cde2527b1">
+<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 40 08 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/be7aa459-6fde-40e6-8166-1ee1df4eb262">
 
-<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 17 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/9f9d7734-4989-4d79-b4d5-bbf92854316d">
-<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 29 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/436a19aa-ffb0-4503-b9b8-ee3d5d2eeae1">
-<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 42 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/b75e4357-a159-46a0-813d-469c2595e6c0">
-<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 39 50 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/ee18daa6-22da-4a3c-8603-25deb9f5d4f1">
-<img width="175" height="350" alt="Screenshot 2024-06-12 at 7 40 08 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/7fcafea9-59dc-4c35-832e-7def985ac74c">
 
 ## Model-View-ViewModel (MVVM) Architecture
-<img width="702" alt="Screenshot 2024-06-12 at 7 56 12 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal/assets/51240335/ac6828ee-45d5-47bc-aaae-e4b452f26ab1">
+<img width="702" alt="Screenshot 2024-06-12 at 7 56 12 PM" src="https://github.com/dikshitapatel/Fetch_TheMeal-Dessert-App/assets/51240335/869024ac-343a-4c39-9ca9-54082ddde1ef">
+
 
 ### Model
 
