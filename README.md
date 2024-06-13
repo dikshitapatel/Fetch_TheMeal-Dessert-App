@@ -46,7 +46,7 @@ Fetch-TheMeal is an iOS app using SwiftUI that allows users to discover and expl
 1. Clone the repository:
 
 ```
-[git clone https://github.com/yourusername/Fetch_TheMeal.git](https://github.com/dikshitapatel/Fetch_TheMeal.git)
+[git clone (https://github.com/dikshitapatel/Fetch_TheMeal.git)]
 ```
 
 2. Open the project in Xcode.
