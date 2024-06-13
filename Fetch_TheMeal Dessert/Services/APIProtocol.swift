@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+protocol APIProtocol {
+    func fetchMeals() async throws -> [Meal]
+    func fetchMealDetails(id: String) async throws -> MealDetails
+}
